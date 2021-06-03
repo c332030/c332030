@@ -1,7 +1,7 @@
 === Hi there 👋
 
 <!--
-**cc332030/cc332030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**c332030/c332030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
